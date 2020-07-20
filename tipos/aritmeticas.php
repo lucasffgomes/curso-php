@@ -16,3 +16,9 @@ echo 7 / 0, '<br>'; // Infinito
 echo 4 ** 2, '<br>';
 
 // Precedência de operadores:
+// ()  =>  **  =>  / * %  =>  +-
+echo '<p>Precedência</p>';
+echo 2 + 3 * 4, '<br>';
+echo (2 + 3) * 4, '<br>';
+echo 2 + 3 * 4 ** 2, '<br>';
+echo ((2 + 3) * 4) ** 2, '<br>';
