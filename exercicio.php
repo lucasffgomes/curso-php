@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
@@ -24,7 +24,7 @@
         </div>
     </main>
     <footer class="rodape">
-        LUCASFFGOMES - <?= date('Y'); ?>
+        LUCASFFGOMES - <?= date('d/m/Y'); ?>
     </footer>
 </body>
 </html>
