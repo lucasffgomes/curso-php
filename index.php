@@ -229,6 +229,23 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo roxo-escuro">    
+                    <h3>8. Paradigma Orientação à Objetos</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=classe">Primeira Classe</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=desafio_data">Desafio Data</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor e Destrutor</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=classes_objetos&file=heranca">Herança</a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
