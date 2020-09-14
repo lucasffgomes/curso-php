@@ -1,6 +1,7 @@
 <div class="titulo">Herança</div>
 
 <?php
+    // classe principal
     class Pessoa {
         public $nome;
         public $idade;
@@ -20,7 +21,7 @@
         }
     }
 
-    // sub-classe
+    // sub-classe de Pessoa
     class Usuario extends Pessoa {
         public $login;
 
