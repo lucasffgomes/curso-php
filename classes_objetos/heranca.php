@@ -43,3 +43,4 @@
 
     $usuario = new Usuario('Lucas Gomes', 23, 'lucasffgomes');
     $usuario->apresentar();
+    unset($usuario);
